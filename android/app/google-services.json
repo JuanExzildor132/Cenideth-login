@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824424420231",
+    "project_id": "cenideth-registro",
+    "storage_bucket": "cenideth-registro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824424420231:android:6e36c6b1adb4c0724f3922",
+        "android_client_info": {
+          "package_name": "com.example.cenideth_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824424420231-gm13s2hbnqalegcn10qnbafnmnif55lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cenideth_login",
+            "certificate_hash": "5dacc7f9c6806b5215b6513f32f25a505a0b2ba2"
+          }
+        },
+        {
+          "client_id": "824424420231-jk763gonljokqfp06m85qhlhlgfj1fi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8CnnbTAPijuCKZT6UZqUzJucX4GYtwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824424420231-jk763gonljokqfp06m85qhlhlgfj1fi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
